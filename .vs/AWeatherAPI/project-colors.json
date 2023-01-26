@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "92aeecb5-4781-49bd-af73-964344d7194a": {
+      "ProjectGuid": "92aeecb5-4781-49bd-af73-964344d7194a",
+      "DisplayName": "AWeatherAPI",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
